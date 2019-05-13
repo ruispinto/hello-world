@@ -1,2 +1,2 @@
 # hello-world
-Just starting to use it
+Just starting to like it
